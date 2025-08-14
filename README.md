@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java-%23ED8B00.svg)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python.svg)
 
 **Development Tools**
 
