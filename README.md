@@ -35,6 +35,8 @@ Meu portfólio reflete minha evolução desde os primeiros algoritmos até a imp
 *   **Inteligência Artificial & Dados:** 
     *   **[Previsão de Preço de Carros](https://github.com/maezono00/atividade-final-fundamentos-ia-analise-dados):** API Python com Machine Learning desenvolvida como projeto final no SENAI.
     *   **[Agentes de IA para Hotelaria](https://github.com/maezono00/agente-ia-hotel):** API RESTful utilizando Python, Flask, Agno e GPT-4o Mini para automação de atendimentos.
+*   **Desenvolvimento & Síntese de Voz:**
+    *   **Colaboração no Studio POMAR:** Apoio em ferramentas como o **Copaiba-Lexicon-LTS**, um editor de `oto.ini` com aceleração por GPU.
 *   **Desenvolvimento Backend:** 
     *   **[Trabalhando com APIs](https://github.com/maezono00/trabalhando-com-apis-csharp-javascript):** Projetos desenvolvidos no 5º semestre da graduação.
     *   **[Sistemas CRUD](https://github.com/maezono00/api-produtos):** Gerenciamento de produtos utilizando Python e Flask.
