@@ -15,46 +15,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=maezono00&color=006bed)
+<h1 align="center">Olá, eu sou o Arthur! 👋</h1>
 
-## Hi, I'm Arthur
+<p align="center">
+  Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC, com foco em criar soluções inteligentes e escaláveis. Atualmente, busco aplicar meus conhecimentos em Inteligência Artificial, Ciência de Dados e Desenvolvimento Backend para resolver problemas reais.
+</p>
 
-- 📍 Americana-SP
-- 🎓 Studying Systems Analysis and Development at FATEC
+## 🤝 Comunidades & Grupos
+*   **[Studio POMAR](https://github.com/studiopomar):** Sou membro deste estúdio brasileiro dedicado ao desenvolvimento de **software livre** para os ecossistemas **UTAU** e **OpenUTAU**. Colaboro em projetos que visam aprimorar a experiência de criação para a comunidade de síntese de voz.
 
-## My Skills
+## 🎓 Formação Acadêmica
+*   **Graduação:** Análise e Desenvolvimento de Sistemas — **FATEC**.
+*   **Especialização Técnica (SENAI):** Formações em **Fundamentos de IA e Análise de Dados** e **IA Aplicada à Programação - ChatGPT**.
+*   **Desenvolvimento Contínuo:** Cursos de extensão em APIs (C# e JavaScript), Introdução à Linguagem Java e Lógica de Programação com Python.
 
-**Main Skills**
+## 🚀 Projetos em Destaque
+Meu portfólio reflete minha evolução desde os primeiros algoritmos até a implementação de modelos de IA:
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c%23)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java-%23ED8B00.svg)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python.svg)
+*   **Inteligência Artificial & Dados:** 
+    *   **[Previsão de Preço de Carros](https://github.com/maezono00/atividade-final-fundamentos-ia-analise-dados):** API Python com Machine Learning desenvolvida como projeto final no SENAI.
+    *   **[Agentes de IA para Hotelaria](https://github.com/maezono00/agente-ia-hotel):** API RESTful utilizando Python, Flask, Agno e GPT-4o Mini para automação de atendimentos.
+*   **Desenvolvimento Backend:** 
+    *   **[Trabalhando com APIs](https://github.com/maezono00/trabalhando-com-apis-csharp-javascript):** Projetos desenvolvidos no 5º semestre da graduação.
+    *   **[Sistemas CRUD](https://github.com/maezono00/api-produtos):** Gerenciamento de produtos utilizando Python e Flask.
+*   **Base Técnica:** Repositórios que documentam minha jornada acadêmica, incluindo **Estrutura de Dados em C**, **POO em Java** e **Laboratório de Banco de Dados**.
 
-**Development Tools**
+## 🛠️ Stack Tecnológica
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,c,php,html,css" />
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+### Frameworks & Ferramentas
+- Flask, Agno, SQL (Supabase/MySQL) e Jupyter Notebook.
+<!-- <p>
+  <img src="https://skillicons.dev/icons?i=flask,agno,mysql,jupyter" />
+</p> -->
 
-**Other Knowledge**
+### Integrações
+- OpenAI API (GPT-4o Mini) e APIs RESTful.
+<!-- <p>
+  <img src="https://skillicons.dev/icons?i=" />
+</p> -->
 
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
-<br/>
-
-<a href="https://github.com/maezono00" title="Arthur's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maezono00&theme=dracula&show_icons=true" />
-</a>
-
-## Where you can find me!
-
-[![Instagram](https://img.shields.io/badge/-Instagram-e4455e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeonjin_00/)](https://www.instagram.com/hyeonjin_00/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-maezono/)](https://www.linkedin.com/in/arthur-maezono/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-fc4405?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.mmaezono00@gmail.com)](mailto:arthur.mmaezono00@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/maezono00?label=follow&style=social)](https://github.com/maezono00)
+## 📫 Vamos nos conectar?
+*   **LinkedIn:** [in/arthur-maezono](https://www.linkedin.com/in/arthur-maezono/)
+*   **Instagram:** [@hyeonjin_00](https://www.instagram.com/hyeonjin_00/)
