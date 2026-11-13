@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 ## 🎓 Formação Acadêmica
 *   **Graduação:** Análise e Desenvolvimento de Sistemas — **FATEC**.
-*   **Especialização Técnica (SENAI):** Formações em **Fundamentos de IA e Análise de Dados** e **IA Aplicada à Programação - ChatGPT**.
-*   **Desenvolvimento Contínuo:** Cursos de extensão em APIs (C# e JavaScript), Introdução à Linguagem Java e Lógica de Programação com Python.
+*   **Desenvolvimento Contínuo:**
+    *  Cursos de extensão na **FATEC**, em APIs (C# e JavaScript), Introdução à Linguagem Java e Lógica de Programação com Python.
+    *  No **SENAI**, **Fundamentos de IA e Análise de Dados** e **IA Aplicada à Programação - ChatGPT**.
 
 ## 🚀 Projetos em Destaque
 Meu portfólio reflete minha evolução desde os primeiros algoritmos até a implementação de modelos de IA:
